@@ -1,0 +1,30 @@
+﻿<?xml version="1.0"?>
+<RecordList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <list>
+    <Record>
+      <Head>Первая</Head>
+      <Content>Это первая запись</Content>
+      <CreateDate>2018-11-20T14:33:37.5406724+03:00</CreateDate>
+    </Record>
+	<Record>
+      <Head>Вторая</Head>
+      <Content>Это вторая запись</Content>
+      <CreateDate>2018-11-20T14:34:37.5406724+03:00</CreateDate>
+    </Record>
+    <Record>
+      <Head>Третья</Head>
+      <Content>Это третья запись</Content>
+      <CreateDate>2018-11-20T14:35:37.5406724+03:00</CreateDate>
+    </Record>
+    <Record>
+      <Head>Четвертая</Head>
+      <Content>Это четвертая запись</Content>
+      <CreateDate>2018-11-20T14:36:37.5406724+03:00</CreateDate>
+    </Record>
+    <Record>
+      <Head>Пятая</Head>
+      <Content>Это пятая запись</Content>
+      <CreateDate>2018-11-20T14:39:08.8108469+03:00</CreateDate>
+    </Record>
+  </list>
+</RecordList>
